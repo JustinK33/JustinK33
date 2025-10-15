@@ -4,6 +4,7 @@ I'm <b>Justin Kong</b> <br>
 🚀 Backend developer | AI/ML engineer | Cloud computing enthusiast<br>
 💼 AI/ML Engineer Extern @ Outamation
 
+## 💡 Featured Projects
 ### 💬 Quotes App — Python, Flask, SQLite, SQLAlchemy, HTML/CSS
 - Full-stack Flask app with **user auth (Flask-Login)**: register, login/logout, secure sessions
 - **Relational schema** (users & quotes) via SQLAlchemy ORM; user-submitted content & relationships
