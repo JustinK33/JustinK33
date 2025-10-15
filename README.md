@@ -2,7 +2,7 @@
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
 🚀 Backend developer | AI/ML engineer | Cloud computing enthusiast<br>
-💼 AI/ML Extern @ Outamation
+💼 AI/ML Engineer Extern @ Outamation
 
 ### 💬 Quotes App — Python, Flask, SQLite, SQLAlchemy, HTML/CSS
 - Full-stack Flask app with **user auth (Flask-Login)**: register, login/logout, secure sessions
@@ -23,7 +23,7 @@ I'm <b>Justin Kong</b> <br>
 
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, HTML/CSS <br>
-<b>Frameworks/Libraries</b>: Flask, FastAPI, Uvicorn, Pydantic, SQLAlchemy, Pandas <br>
+<b>Frameworks/Libraries</b>: Flask, FastAPI, Uvicorn, Pydantic, SQLAlchemy, Pandas, TensorFlow, LlamaIndex, Tesseract, RAG, PaddleOCR <br>
 <b>Databases</b>: SQLite, Redis, PostgreSQL <br>
 <b>Tools & Platforms</b>: Git, AWS (EC2, S3) <br>
 
