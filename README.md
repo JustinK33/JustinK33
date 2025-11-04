@@ -1,7 +1,7 @@
 # Welcome 👋 <br>
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
-🚀 Backend developer | AI/ML engineer | Cloud computing enthusiast<br>
+🚀 Backend developer | API specialist | Cloud infrastructure enthusiast | AI/ML engineer<br>
 💼 AI/ML Engineer Extern @ Outamation
 
 ## 💡 Featured Projects
