@@ -1,10 +1,20 @@
 # Welcome 👋 <br>
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
-🚀 Backend developer | API specialist | Cloud infrastructure enthusiast | AI/ML engineer<br>
+🚀 Backend developer | API specialist | Cloud computing enthusiast | AI/ML engineer<br>
 💼 AI/ML Engineer Extern @ Outamation
 
 ## 💡 Featured Projects
+### 🧠 Team Brain — Python, FastAPI, PostgreSQL, Pydantic, SQLAlchemy, Redis (CURRENT)
+- Secure REST API with **JWT** access & refresh tokens (login, token refresh, protected routes, logout-style token invalidation pattern)
+- **PostgreSQL** + **SQLAlchemy ORM** with relational models for users, spaces, memberships, and messages (ownership, roles, and constraints)
+- **Redis caching** for frequently accessed user/session data to reduce database hits and improve response times
+- **SlowAPI** rate limiting using Redis storage for **per-user and per-IP limiting**, protecting message endpoints from abuse
+
+**What this shows:** real-world backend concerns—stateless auth with token lifecycles, database design, relational schema design, cache-aware performance optimization, and defensive patterns like distributed rate limiting to keep an API reliable under load.
+
+---
+
 ### 💬 Quotes App — Python, Flask, SQLite, SQLAlchemy, HTML/CSS
 - Full-stack Flask app with **user auth (Flask-Login)**: register, login/logout, secure sessions
 - **Relational schema** (users & quotes) via SQLAlchemy ORM; user-submitted content & relationships
@@ -12,21 +22,11 @@ I'm <b>Justin Kong</b> <br>
 
 **What this shows:** end-to-end web app fundamentals—auth, models, forms, templates, and clean routing.
 
----
-
-### 🪙 JWT Authentication Server — Python, Flask, PostgreSQL, SQLAlchemy, Redis
-- Secure REST API with **JWT** (access + refresh) using `flask_jwt_extended` and protected routes
-- **PostgreSQL** + **SQLAlchemy ORM** with normalized user schema and **Werkzeug** password hashing
-- **Redis caching** for high-cost endpoints → faster responses & lower DB load
-- **Flask-Limiter** with Redis storage for **per-user/IP rate limiting** (persists across restarts)
-
-**What this shows:** production-style API patterns—tokens, caching, throttling, and database design.
-
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, HTML/CSS <br>
-<b>Frameworks/Libraries</b>: Flask, FastAPI, Uvicorn, Pydantic, SQLAlchemy, Pandas, TensorFlow, LlamaIndex, Tesseract, RAG, PaddleOCR <br>
-<b>Databases</b>: SQLite, Redis, PostgreSQL <br>
-<b>Tools & Platforms</b>: Git, AWS (EC2, S3) <br>
+<b>Frameworks/Libraries</b>: FastAPI, Flask, Uvicorn, Pydantic, SQLAlchemy, Pandas, TensorFlow, Tesseract, RAG, PaddleOCR <br>
+<b>Databases</b>: PostgreSQL, Redis, SQLite <br>
+<b>Tools & Platforms</b>: Git, AWS (EC2, S3, RDS), Docker, Postman <br>
 
 ## 📫 Connect With Me:
 Email: jhk174@scarletmail.rutgers.edu <br>
