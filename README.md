@@ -2,6 +2,7 @@
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
 🚀 Backend developer | API specialist | Cloud computing enthusiast | AI/ML engineer<br>
+🎓 Software Engineering Intern @ Deepiri
 💼 AI/ML Engineer Extern @ Outamation
 
 ## 💡 Featured Projects
@@ -12,6 +13,10 @@ I'm <b>Justin Kong</b> <br>
 - **SlowAPI** rate limiting using Redis storage for **per-user and per-IP limiting**, protecting message endpoints from abuse
 
 **What this shows:** real-world backend concerns—stateless auth with token lifecycles, database design, relational schema design, cache-aware performance optimization, and defensive patterns like distributed rate limiting to keep an API reliable under load.
+
+---
+## ⚡ RU Valentine V2 — Python, FastAPI, Oauth V2 (CURRENT)
+Designing and building a school-wide matchmaking platform for Rutgers students, including auth, survey flows, matching logic, and announcement pages, handling real student sign-ups and live traffic.
 
 ---
 
