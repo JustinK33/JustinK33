@@ -1,9 +1,9 @@
 # Welcome 👋 <br>
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
-🚀 Backend developer | API specialist | Cloud computing enthusiast | AI/ML engineer<br>
-🎓 Software Engineering Intern @ Deepiri
-💼 AI/ML Engineer Extern @ Outamation
+🚀 Backend developer | API specialist | Cloud computing enthusiast | AI/ML engineer <br>
+🎓 Software Engineering Intern @ Deepiri <br>
+💼 AI/ML Engineer Extern @ Outamation <br>
 
 ## 💡 Featured Projects
 ### 🧠 Team Brain — Python, FastAPI, PostgreSQL, Pydantic, SQLAlchemy, Redis (CURRENT)
