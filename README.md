@@ -20,13 +20,6 @@ Designing and building a school-wide matchmaking platform for Rutgers students, 
 
 ---
 
-### 💬 Quotes App — Python, Flask, SQLite, SQLAlchemy, HTML/CSS
-- Full-stack Flask app with **user auth (Flask-Login)**: register, login/logout, secure sessions
-- **Relational schema** (users & quotes) via SQLAlchemy ORM; user-submitted content & relationships
-- **Forms + validation + flash messaging** for clear error feedback and smooth UX
-
-**What this shows:** end-to-end web app fundamentals—auth, models, forms, templates, and clean routing.
-
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, HTML/CSS <br>
 <b>Frameworks/Libraries</b>: FastAPI, Flask, Uvicorn, Pydantic, SQLAlchemy, Pandas, TensorFlow, Tesseract, RAG, PaddleOCR <br>
