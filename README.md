@@ -2,8 +2,7 @@
 I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
 🚀 Backend developer | API specialist | Cloud computing enthusiast | AI/ML engineer <br>
-🎓 Software Engineering Intern @ Deepiri <br>
-💼 AI/ML Engineer Extern @ Outamation <br>
+🎓 Full-Stack Software Engineering Intern @ Deepiri <br>
 
 ## 💡 Featured Projects
 ### 🧠 Team Brain — Python, FastAPI, PostgreSQL, Pydantic, SQLAlchemy, Redis (CURRENT)
@@ -18,11 +17,14 @@ I'm <b>Justin Kong</b> <br>
 ## ⚡ RU Valentine V2 — Python, FastAPI, Oauth V2 (CURRENT)
 Designing and building a school-wide matchmaking platform for Rutgers students, including auth, survey flows, matching logic, and announcement pages, handling real student sign-ups and live traffic.
 
+## ⚡ NoteTube — Python, Django, OpenAI, AssemblyAI
+Building an AI-powered note generator that takes your favorite YouTube videos and turns them into organized and structured notes.
+
 ---
 
 ## 💻 Tech Stack:
-<b>Languages</b>: Python, Java, HTML/CSS <br>
-<b>Frameworks/Libraries</b>: FastAPI, Flask, Uvicorn, Pydantic, SQLAlchemy, Pandas, TensorFlow, Tesseract, RAG, PaddleOCR <br>
+<b>Languages</b>: Python, Java, HTML/CSS, JavaScript, TypeScript <br>
+<b>Frameworks/Libraries</b>: FastAPI, Django, Flask, Pydantic, Tailwind CSS, SQLAlchemy, Tesseract, NumPy, Pandas <br>
 <b>Databases</b>: PostgreSQL, Redis, SQLite <br>
 <b>Tools & Platforms</b>: Git, AWS (EC2, S3, RDS), Docker, Postman <br>
 
