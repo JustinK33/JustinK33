@@ -32,9 +32,8 @@ Building an AI-powered note generator that takes your favorite YouTube videos an
 
 ## 📫 Connect With Me:
 Email: jhk174@scarletmail.rutgers.edu <br>
-Personal-Portfolio: <a href="https://justin-kong-personal-porfolio.onrender.com/">Justin Kong</a>
+Personal-Portfolio: <a href="https://justin-kong-personal-porfolio.onrender.com/">Justin Kong</a> <br>
 LinkedIn: <a href="https://www.linkedin.com/in/justin-hkong/">JustinHKong</a> <br>
-GitHub: <a href="https://github.com/JustinK33">JustinK33</a> <br> 
 
 ---
 
