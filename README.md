@@ -12,7 +12,7 @@ I'm <b>Justin Kong</b> <br>
 
 **What this shows:** full lifecycle backend engineering—built a Django web app from local development to a production deployment on AWS, containerized the application with Docker for consistent environments and repeatable releases, ran Gunicorn as the application server behind Nginx (reverse proxy + static asset delivery), and improved scalability and reliability by using Redis caching to reduce PostgreSQL load and cut endpoint latency.
 
-Check it out and try it here: <a href="http://54.167.105.59/">NoteTube</a>
+Check it out and try it here: <a href="http://54.167.105.59/ target="_blank">NoteTube</a>
 
 ---
 ## ⚡ RU Valentine V2 — Python, FastAPI, Oauth V2 (CURRENT)
