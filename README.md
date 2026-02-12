@@ -4,7 +4,7 @@ I'm <b>Justin Kong</b> <br>
 🚀 Backend developer | API specialist | Cloud computing enthusiast | Problem solver <br>
 🎓 Full-Stack Software Engineering Intern @ Deepiri <br>
 
-## 💡 Featured Project
+## 💡 Featured Projects
 ### NoteTube — Python, Django, PostgreSQL, Redis, AWS (EC2), Nginx, Docker, OpenAI, AssemblyAI
 - **Deployed and Dockerized a Django application on AWS EC2 (Linux)**, running Gunicorn under systemd for process supervision and automatic restarts, enabling stable production serving and simpler, repeatable deployments.
 - **Configured Nginx** as an **HTTP(S) reverse proxy** to route traffic to **Gunicorn**, serving static assets directly and enabling proxy caching to **reduce application server load** and **improve request-handling reliability**.
@@ -14,20 +14,22 @@ I'm <b>Justin Kong</b> <br>
 
 Check it out and try it here: <a href="http://54.167.105.59/" target="_blank">NoteTube</a>
 
----
-## ⚡ RU Valentine V2 — Python, FastAPI, Oauth V2 (CURRENT)
+## ⚡ RU Valentine V2 — Python, FastAPI, Oauth V2
 Designing and building a school-wide matchmaking platform for Rutgers students, including auth, survey flows, matching logic, and announcement pages, handling real student sign-ups and live traffic.
 
-## ⚡ TeamBrain — Python, FastAPI, OpenAI, AssemblyAI
-Building an AI-powered note generator that takes your favorite YouTube videos and turns them into organized and structured notes.
+- Implemented **Google SSO with OAuth 2.0/OIDC**, including PKCE, ID token verification, hosted-domain enforcement, and **JWT-based authentication** for protected REST APIs.
+- Built a **weighted-vector** compatibility algorithm for a student-matching system serving **2,000+** Rutgers users.
+- Architected a scalable matching platform with **70-dimensional embeddings**, achieving **<400 ms search latency** and **99.9% uptime**.
 
----
+**What this shows:** full-stack backend system design—implemented secure OAuth 2.0 authentication with JWT-based session handling, designed a scalable vector-based matching algorithm using **70-dimensional embeddings**, and built a production-ready platform capable of serving **2,000+** real users with **sub-400ms** search latency and high uptime.
+
+Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My Valentine</a>
 
 ## 💻 Tech Stack:
-<b>Languages</b>: Python, Java, HTML/CSS, JavaScript, TypeScript <br>
-<b>Frameworks/Libraries</b>: FastAPI, Django, Flask, Pydantic, Tailwind CSS, SQLAlchemy, Tesseract, NumPy, Pandas <br>
-<b>Databases</b>: PostgreSQL, MongoDB, Redis, SQLite <br>
-<b>Tools & Platforms</b>: Git, AWS (EC2, S3, RDS), Docker, Postman <br>
+<b>Languages</b>: Python, Java, SQL, HTML/CSS, JavaScript, TypeScript <br>
+<b>Frameworks/Libraries</b>: FastAPI, Django, Flask, Pydantic, Tailwind CSS, SQLAlchemy, Tesseract, NumPy, Pandas, Spring Boot, Spring Data JPA <br>
+<b>Databases</b>: PostgreSQL, MongoDB, Redis <br>
+<b>Tools & Platforms</b>: Git, AWS EC2, Docker, Nginx, k6, Gunicorn, Kafka, Maven, Postman <br>
 <b>APIs & Integration</b>: Google OAuth, Google Gemini API, AssemblyAI API, OpenAI API, Weather API
 
 ## 📫 Connect With Me:
