@@ -27,7 +27,7 @@ Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My V
 
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, SQL, HTML/CSS, JavaScript, TypeScript <br>
-<b>Frameworks/Libraries</b>: FastAPI, Django, Flask, Pydantic, Tailwind CSS, SQLAlchemy, Tesseract, NumPy, Pandas, Spring Boot, Spring Data JPA <br>
+<b>Frameworks/Libraries</b>: FastAPI, Django, Flask, Pydantic, Tailwind CSS, SQLAlchemy, Spring Boot, Spring Data JPA <br>
 <b>Databases</b>: PostgreSQL, MongoDB, Redis <br>
 <b>Tools & Platforms</b>: Git, AWS EC2, Docker, Nginx, k6, Gunicorn, Kafka, Maven, Postman <br>
 <b>APIs & Integration</b>: Google OAuth, Google Gemini API, AssemblyAI API, OpenAI API, Weather API
