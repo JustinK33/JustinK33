@@ -34,7 +34,7 @@ Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My V
 
 ## 📫 Connect With Me:
 Email: jhk174@scarletmail.rutgers.edu <br>
-Personal-Portfolio: <a href="https://justin-kong-personal-porfolio.onrender.com/">Justin Kong</a> <br>
+Personal-Portfolio: <a href="[https://justin-kong-personal-porfolio.onrender.com/](https://justinkong.app/)">Justin Kong</a> <br>
 LinkedIn: <a href="https://www.linkedin.com/in/justin-hkong/">JustinHKong</a> <br>
 
 ---
