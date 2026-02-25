@@ -26,7 +26,7 @@ Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My V
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, JavaScript, TypeScript, Ruby, SQL, Bash, HTML/CSS <br>
 <b>Frameworks/Libraries</b>: FastAPI, Django, SQLAlchemy, Pydantic, Flask, Ruby on Rails, Spring Boot, Node.js, Express.js <br>
-<b>Databases</b>: PostgreSQL, MongoDB, Redis, DynamoDB <br>
+<b>Databases</b>: PostgreSQL, MongoDB, Redis, MySQL <br>
 <b>Infrastructure & DevOps</b>: Git, GitHub Actions (CI/CD), AWS (EC2, VPC, RDS), Docker, Nginx, Gunicorn, Kafka, Linux <br>
 <b>Observability & Monitoring</b>: Prometheus, Grafana, k6
 
