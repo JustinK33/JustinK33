@@ -1,5 +1,4 @@
 # Hi, I'm Justin 👋 <br>
-I'm <b>Justin Kong</b> <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
 🚀 Backend developer | API specialist | Cloud computing enthusiast | DevOps engineer <br>
 🎓 Full-Stack Software Engineering Intern @ Deepiri <br>
