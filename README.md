@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋 <br>
 🎓 Computer Science @ Rutgers University (Class of 2028) <br>
-🚀 Backend developer | API specialist | Cloud computing enthusiast | DevOps engineer <br>
+🚀 Backend developer | Applied AI Engineer | Cloud computing enthusiast | DevOps engineer <br>
 🎓 Full-Stack Software Engineering Intern @ Deepiri <br>
 
 ## 💡 Featured Projects
@@ -24,6 +24,7 @@ Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My V
 
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, JavaScript, TypeScript, Ruby, SQL, Bash, HTML/CSS <br>
+**Machine Learning/Applied AI**: PyTorch, TensorFlow, scikit-learn, NumPy, pandas, RAG, embeddings, fine-tuning, Tesseract OCR
 <b>Frameworks/Libraries</b>: FastAPI, Django, SQLAlchemy, Pydantic, Flask, Ruby on Rails, Spring Boot, Node.js, Express.js <br>
 <b>Databases</b>: PostgreSQL, MongoDB, Redis, MySQL <br>
 <b>Infrastructure & DevOps</b>: Git, GitHub Actions (CI/CD), AWS (EC2, VPC, RDS), Docker, Nginx, Gunicorn, Kafka, Linux <br>
