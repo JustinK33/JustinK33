@@ -15,7 +15,7 @@
 <br>
 
 <h2 align="center">
-  <img src="/imgs/title1.png" width="25"/> <em>About me</em>
+  <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white" />
 </h2>
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
@@ -23,16 +23,16 @@
 <br/>
 
 <p>
-  Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer who enjoys building full-stack and backend-heavy projects. I like working with web apps, APIs, cloud deployment, and performance optimization, and I’m always looking for ways to turn ideas into polished, real-world products.
+  Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer focused on backend engineering, distributed systems, and AI. I enjoy building scalable services, designing reliable APIs, working with cloud infrastructure, and applying machine learning to real-world products.
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="/imgs/img3.png" width="15"/> <em><b>Computer Science student</b></em> <br/>
-  <img src="/imgs/img4.png" width="15"/> <em><b>Building full-stack and backend projects</b></em><br/>
-  <img src="/imgs/img2.png" width="15"/> <em><b>Interested in software engineering internships</b></em><br/>
-  <img src="/imgs/img1.png" width="15"/> <em><b>Focused on clean, scalable systems</b></em><br/>
+  <img src="https://img.shields.io/badge/Computer%20Science-000000?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <br/>
