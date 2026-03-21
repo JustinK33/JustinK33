@@ -1,39 +1,82 @@
-# Hi, I'm Justin 👋 <br>
-🎓 Computer Science @ Rutgers University (Class of 2028) <br>
-🚀 Backend developer | Applied AI Engineer | Cloud computing enthusiast | DevOps engineer <br>
-🎓 Full-Stack Software Engineering Intern @ Deepiri <br>
+<img src="githubanner.JPG"/>
 
-## 💡 Featured Projects
-### NoteTube — Python, Django, PostgreSQL, Redis, AWS (EC2), Nginx, Docker, OpenAI, AssemblyAI
-- Deployed a Dockerized Django application on Linux-based AWS EC2, configuring security groups and SSH access, and securing HTTPS traffic via TLS termination at Nginx with Let’s Encrypt.
-- Increased throughput by 20%, reduced average latency by 16.5%, and lowered p95 latency by 19% by implementing Nginx response caching and iterative performance tuning with k6 load testing.
-- Reduced API latency 85.9% (313ms to 44ms) by integrating Redis caching for high-traffic user and session queries.
-- Implemented GitHub Actions CI, automating tests and formatting, reducing manual validation by 90%.
+<p align="center">
+  <a href="https://www.linkedin.com/in/justin-hkong/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://justinkong.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/JustinK33" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**What this shows:** full lifecycle backend engineering—built a Django web app from local development to a production deployment on AWS, containerized the application with Docker for consistent environments and repeatable releases, ran Gunicorn as the application server behind Nginx (reverse proxy + static asset delivery), and improved scalability and reliability by using Redis caching to reduce PostgreSQL load and cut endpoint latency.
+<br>
 
-Check it out and try it here: <a href="https://notetube.dev/" target="_blank">NoteTube</a>
+<h2 align="center">
+  <img src="/imgs/title1.png" width="25"/> <em>About me</em>
+</h2>
 
-## ⚡ RU Valentine V2 — Python, FastAPI, Pydantic, PostgreSQL
-- Accomplished secure user authentication and access control by implementing Google SSO using OAuth 2.0 and OIDC with PKCE, ID token verification, hosted-domain enforcement, and JWT-based protection for REST APIs.
-- Achieved sub-400 ms search latency with 99.9% uptime for a student-matching platform serving 2,000+ Rutgers users by designing a weighted-vector compatibility algorithm leveraging 70-dimensional embeddings.
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 
-**What this shows:** full-stack backend system design—implemented secure OAuth 2.0 authentication with JWT-based session handling, designed a scalable vector-based matching algorithm using **70-dimensional embeddings**, and built a production-ready platform capable of serving **2,000+** real users with **sub-400ms** search latency and high uptime.
+<br/>
 
-Check it out and try it here: <a href="https://rumv.me/" target="_blank">RU My Valentine</a>
+<p>
+  Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer who enjoys building full-stack and backend-heavy projects. I like working with web apps, APIs, cloud deployment, and performance optimization, and I’m always looking for ways to turn ideas into polished, real-world products.
+</p>
 
-## 💻 Tech Stack:
-<b>Languages</b>: Python, Java, JavaScript, TypeScript, Ruby, SQL, Bash, HTML/CSS <br>
-**Machine Learning/Applied AI**: PyTorch, TensorFlow, scikit-learn, NumPy, pandas, RAG, embeddings, fine-tuning, Tesseract OCR
-<b>Frameworks/Libraries</b>: FastAPI, Django, SQLAlchemy, Pydantic, Flask, Ruby on Rails, Spring Boot, Node.js, Express.js <br>
-<b>Databases</b>: PostgreSQL, MongoDB, Redis, MySQL <br>
-<b>Infrastructure & DevOps</b>: Git, GitHub Actions (CI/CD), AWS (EC2, VPC, RDS), Docker, Nginx, Gunicorn, Kafka, Linux <br>
-<b>Observability & Monitoring</b>: Prometheus, Grafana, k6
+<br/>
 
-## 📫 Connect With Me:
-Email: jhk174@scarletmail.rutgers.edu <br>
-Personal-Portfolio: <a href="https://www.justinkong.app/">Justin Kong</a> <br>
-LinkedIn: <a href="https://www.linkedin.com/in/justin-hkong/">JustinHKong</a> <br>
+<p align="center">
+  <img src="/imgs/img3.png" width="15"/> <em><b>Computer Science student</b></em> <br/>
+  <img src="/imgs/img4.png" width="15"/> <em><b>Building full-stack and backend projects</b></em><br/>
+  <img src="/imgs/img2.png" width="15"/> <em><b>Interested in software engineering internships</b></em><br/>
+  <img src="/imgs/img1.png" width="15"/> <em><b>Focused on clean, scalable systems</b></em><br/>
+</p>
 
----
+<br/>
+<br/>
 
+<h2 align="center">
+  <img src="/imgs/title2.png" width="25"/> <em>Technologies</em>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="/imgs/title3.png" width="25"/> <em>Statistics</em>
+</h2>
+
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=JustinK33&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=401)
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinK33&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
