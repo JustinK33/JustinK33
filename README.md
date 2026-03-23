@@ -4,7 +4,7 @@
 🎓 Software Engineering Intern @ Deepiri <br>
 
 ## 👤 About Me:
-Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer interested in backend engineering, distributed systems, and AI. I enjoy building scalable systems, working with APIs and cloud infrastructure, and applying machine learning to real-world products.
+Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer interested in backend engineering, distributed systems, and AI. I enjoy building scalable systems that I can use, working with APIs, cloud infrastructure, and applying machine learning to real-world products. I also think system architecture is pretty cool!
 
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, TypeScript, JavaScript, SQL, C, Ruby, Bash, HTML/CSS <br>
