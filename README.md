@@ -8,7 +8,7 @@ Hello there! <em><b>I'm Justin Kong</b></em>, a Computer Science student and sof
 
 ## 💻 Tech Stack:
 <b>Languages</b>: Python, Java, TypeScript, JavaScript, SQL, C, Ruby, Bash, HTML/CSS <br>
-<b>Frameworks/Libraries</b>: FastAPI, Django, Spring Boot, Node.js, Express, Next.js, Flask, Ruby on Rails, SQLAlchemy, PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, pandas <br>
+<b>Frameworks/Libraries</b>: FastAPI, Django, Spring Boot, Node.js, Express, Next.js, Flask, Ruby on Rails, SQLAlchemy, gRPC, PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, pandas <br>
 <b>Databases</b>: PostgreSQL, MySQL, Redis, MongoDB <br>
 <b>Infrastructure & DevOps</b>: AWS (EC2, VPC), Docker, Nginx, Kafka, Git, GitHub Actions, Linux <br>
 <b>Observability & Testing</b>: Prometheus, Grafana, k6, pytest, JUnit, Postman
