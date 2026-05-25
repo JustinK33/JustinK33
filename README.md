@@ -7,8 +7,8 @@
 Hi, <em><b>I'm Justin Kong</b></em>, a Computer Science student and software developer interested in backend & distributed systems. I enjoy building scalable systems that I can use, working with APIs, cloud infrastructure, and applying machine learning to real-world products. System architecture is pretty cool too.
 
 ## 💻 Tech Stack:
-<b>Languages</b>: Python, Java, TypeScript, JavaScript, SQL, C, Ruby, Bash, HTML/CSS <br>
-<b>Frameworks/Libraries</b>: FastAPI, Django, Spring Boot, Node.js, Express, Next.js, Flask, Ruby on Rails, gRPC, SQLAlchemy, Tailwind CSS
+<b>Languages</b>: Python, Java, TypeScript, JavaScript, SQL, Golang, C, Ruby, Bash, HTML/CSS <br>
+<b>Frameworks/Libraries</b>: FastAPI, Django, Spring Boot, Node.js, Express, Next.js, Flask, Ruby on Rails, gRPC, SQLAlchemy, Tailwind
 <b>AI/ML technologies</b> LangChain, PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, pandas <br>
 <b>Databases</b>: PostgreSQL, MySQL, Redis, MongoDB <br>
 <b>Infrastructure & DevOps</b>: AWS (EC2, RDS, VPC), Docker, Kafka, GCP, Nginx, Git, GitHub Actions, Linux <br>
