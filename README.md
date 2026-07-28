@@ -1,12 +1,12 @@
 # Hi, I'm Justin
 
 Computer Science & Data Science @ Rutgers University  
-Backend Engineer focused on distributed systems, APIs, and data infrastructure  
+Pragmatic backend Engineer focused on distributed systems, APIs, and data infrastructure  
 Software Engineer Intern @ Arka
 
 ## About Me
 
-I'm Justin Kong, a computer science student and software engineer focused on backend systems, distributed services, and practical developer tooling.
+I'm Justin Kong, a computer science and data science student and software engineer focused on backend systems, distributed services, and practical developer tooling.
 
 I enjoy building products with strong backend foundations, especially systems involving APIs, async workflows, databases, cloud infrastructure, and scalable application architecture.
 
