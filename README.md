@@ -24,9 +24,9 @@ Lately, I've been working on projects around AI-powered products, task processin
 ## Selected Work
 
 - **Myntlo** - AI meeting intelligence platform for uploads, transcription, summaries, action items, and searchable insights.
-- **GoTaskQ** - Horizontally scalable task queue built in Go.
+- **Conduit** - Horizontally scalable task queue built in Go.
 - **NoteTube** - AI note generation system with async processing, semantic search, and service-to-service communication.
-- **DailyNode** - Self-hosted Discord automation bot for structured coding practice and reminders.
+- **LinkNest** - A multi-tenant link-in-bio platform with customizable profiles and analytics.
 
 ## Connect
 
