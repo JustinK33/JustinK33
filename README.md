@@ -14,10 +14,10 @@ Lately, I've been working on projects around AI-powered products, task processin
 
 ## Core Stack
 
-**Languages:** Python, Java, Go, TypeScript, JavaScript, SQL, Bash  
-**Backend:** FastAPI, Gin, Django, Spring Boot, Node.js, Express, gRPC, Celery, Flask, SQLAlchemy  
+**Languages:** Python, Java, Go, TypeScript, JavaScript, C, C++, SQL, Bash  
+**Backend:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Flask  
 **Data & Storage:** PostgreSQL, MySQL, Redis, MongoDB  
-**Infrastructure:** AWS, GCP, Docker, Kubernetes, Kafka, Nginx, GitHub Actions, Linux  
+**Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux  
 **Data & Applied AI:** pandas, LangChain, OpenAI APIs, RAG pipelines, document extraction, NLP  
 **Testing & Observability:** pytest, JUnit, Postman, Prometheus, Grafana, OpenTelemetry, Sentry  
 
