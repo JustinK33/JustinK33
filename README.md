@@ -1,7 +1,7 @@
 # Hi, I'm Justin
 
 Computer Science & Data Science @ Rutgers University  
-Pragmatic backend Engineer focused on distributed systems, APIs, and data infrastructure  
+Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data-Driven Applications
 Software Engineer Intern @ Arka
 
 ## About Me
@@ -16,7 +16,7 @@ Lately, I've been working on projects around AI-powered products, task processin
 
 **Languages:** Python, Java, Go, TypeScript, JavaScript, C, C++, SQL, Bash  
 **Backend:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Flask  
-**Data & Storage:** PostgreSQL, MySQL, Redis, MongoDB  
+**Data & Storage:** PostgreSQL, MySQL, PGVector, Redis, MongoDB  
 **Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux  
 **Data & Applied AI:** pandas, LangChain, OpenAI APIs, RAG pipelines, document extraction, NLP  
 **Testing & Observability:** pytest, JUnit, Postman, Prometheus, Grafana, OpenTelemetry, Sentry  
