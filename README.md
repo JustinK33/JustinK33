@@ -1,7 +1,7 @@
 # Hi, I'm Justin
 
 Computer Science & Data Science @ Rutgers University  
-Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data-Driven Applications
+Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data-Driven Applications  
 Software Engineer Intern @ Arka
 
 ## About Me
