@@ -1,32 +1,32 @@
 # Hi, I'm Justin
 
 Computer Science & Data Science @ Rutgers University  
-Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data-Driven Applications  
+Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data Pipelines
 Software Engineer Intern @ Arka
 
 ## About Me
 
-I'm Justin Kong, a computer science and data science student and software engineer focused on backend systems, distributed services, and practical developer tooling.
+Backend and Data Engineer with a strong foundation in building high-throughput data pipelines, distributed systems, and scalable backend infrastructure.
 
-I enjoy building products with strong backend foundations, especially systems involving APIs, async workflows, databases, cloud infrastructure, and scalable application architecture.
+Proficient in Python and Go, using frameworks like FastAPI and Gin, with strong SQL experience across PostgreSQL, MySQL, and MongoDB, plus streaming and orchestration experience with Kafka, Redpanda, and Airflow. Comfortable working across AWS and GCP for deployment and infrastructure.
 
-Lately, I've been working on projects around AI-powered products, task processing systems, and developer tools, with most of my work centered on building reliable backend infrastructure.
+My work centers on pipeline performance optimization, event-driven architecture, and building systems that stay reliable under real load.
 
 ## Core Stack
 
-**Languages:** Python, Java, Go, TypeScript, JavaScript, C, C++, SQL, Bash  
-**Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Flask  
+**Languages:** Python, Java, Go, TypeScript, C++, SQL, Bash  
+**Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
+**Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Airflow, LangChain  
 **Databases:** PostgreSQL, MySQL, PGVector, Redis, MongoDB  
 **Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux  
-**Data & Applied AI:** pandas, LangChain, OpenAI APIs, RAG pipelines, document extraction, NLP  
 **Testing & Observability:** pytest, JUnit, Postman, Prometheus, Grafana, OpenTelemetry, Sentry  
 
 ## Selected Work
 
-- **Myntlo** - AI meeting intelligence platform for uploads, transcription, summaries, action items, and searchable insights.
-- **Conduit** - Horizontally scalable task queue built in Go.
-- **NoteTube** - AI note generation system with async processing, semantic search, and service-to-service communication.
-- **LinkNest** - A multi-tenant link-in-bio platform with customizable profiles and analytics.
+- [**Conduit**](https://github.com/JustinK33/Conduit) - Horizontally scalable task queue built in Go.
+- [**NoteTube**](https://github.com/JustinK33/NoteTube) - AI note generation system with async processing, semantic search, and service-to-service communication.
+- [**LinkNest**](https://github.com/JustinK33/LinkNest) - A multi-tenant link-in-bio platform with customizable profiles and analytics.
+- [**Pulsegrid**](Pulsegrid) - Streaming ETL pipeline that turns raw e-commerce events into clean, query-ready tables.
 
 ## Connect
 
