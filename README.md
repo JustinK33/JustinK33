@@ -14,7 +14,7 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 ## Core Stack
 
-**Languages:** Python, Java, Go, TypeScript, JavaScript, C++, SQL, Bash  
+**Languages:** Python, Golang, SQL, Java, TypeScript, JavaScript, C++, Bash  
 **Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
 **Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Airflow, LangChain  
 **Databases:** PostgreSQL, MySQL, pgvector, Redis, MongoDB  
