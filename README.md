@@ -14,12 +14,12 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 ## Core Stack
 
-**Languages:** Python, Java, Go, TypeScript, C++, SQL, Bash  
+**Languages:** Python, Java, Go, TypeScript, JavaScript, C++, SQL, Bash  
 **Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
 **Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Airflow, LangChain  
-**Databases:** PostgreSQL, MySQL, PGVector, Redis, MongoDB  
-**Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux  
-**Testing & Observability:** pytest, JUnit, Postman, Prometheus, Grafana, OpenTelemetry, Sentry  
+**Databases:** PostgreSQL, MySQL, pgvector, Redis, MongoDB  
+**Cloud & Infra:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux, Prometheus, Grafana, OpenTelemetry
+**AI:** Model Context Protocol (MCP), Agentic Workflows & Custom Skills, Context Management, Claude, Codex
 
 ## Selected Work
 
