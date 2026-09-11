@@ -18,8 +18,8 @@ My work centers on pipeline performance optimization, event-driven architecture,
 **Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
 **Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Airflow, LangChain  
 **Databases:** PostgreSQL, MySQL, pgvector, Redis, MongoDB  
-**Cloud & Infra:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Redpanda, Snowflake, Nginx, GitHub Actions, Linux, Prometheus, Grafana, OpenTelemetry  
-**AI:** Model Context Protocol (MCP), Agentic Workflows & Custom Skills, Context Management, Claude, Codex
+**Cloud & Infra:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Snowflake, Nginx, GitHub Actions, Linux, Prometheus, Grafana, OpenTelemetry  
+**AI:** LLMs, Model Context Protocol (MCP), Agentic Workflows & Custom Skills, Context Management, Claude, Codex
 
 ## Selected Work
 
