@@ -23,14 +23,15 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 ## Selected Work
 
+- [**Belady**](https://github.com/JustinK33/Belady) - A distributed cache whose eviction policy is a machine-learned approximation of the provably optimal algorithm.
 - [**Conduit**](https://github.com/JustinK33/Conduit) - Horizontally scalable task queue built in Go.
 - [**NoteTube**](https://github.com/JustinK33/NoteTube) - AI note generation system with async processing, semantic search, and service-to-service communication.
 - [**LinkNest**](https://github.com/JustinK33/LinkNest) - A multi-tenant link-in-bio platform with customizable profiles and analytics.
-- [**Pulsegrid**](Pulsegrid) - Streaming ETL pipeline that turns raw e-commerce events into clean, query-ready tables.
+- [**Pulsegrid**](https://github.com/JustinK33/Pulsegrid) - Streaming ETL pipeline that turns raw e-commerce events into clean, query-ready tables.
 
 ## Connect
 
-Email: `jhk174@scarletmail.rutgers.edu`  
+Email: `justinkong.dev@gmail.com`  
 Portfolio: [justinkong.app](https://www.justinkong.app/)  
 LinkedIn: [linkedin.com/in/justin-hkong](https://www.linkedin.com/in/justin-hkong/)  
 LinkNest: [linknest.info/justin](https://linknest.info/justin)
