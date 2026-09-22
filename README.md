@@ -25,7 +25,7 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 - [**Belady**](https://github.com/JustinK33/Belady) - A distributed cache whose eviction policy is a machine-learned approximation of the provably optimal algorithm.
 - [**Conduit**](https://github.com/JustinK33/Conduit) - Horizontally scalable task queue built in Go.
-- [**NoteTube**](https://github.com/JustinK33/NoteTube) - AI note generation system with async processing, semantic search, and service-to-service communication.
+- [**RiskScore**](https://github.com/JustinK33/RiskScore) - A leakage-aware credit default risk pipeline with calibration, business-aware thresholds, and a scoring service.
 - [**LinkNest**](https://github.com/JustinK33/LinkNest) - A multi-tenant link-in-bio platform with customizable profiles and analytics.
 - [**Pulsegrid**](https://github.com/JustinK33/Pulsegrid) - Streaming ETL pipeline that turns raw e-commerce events into clean, query-ready tables.
 
