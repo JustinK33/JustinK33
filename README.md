@@ -16,9 +16,9 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 **Languages:** Python, Golang, SQL, Java, TypeScript, JavaScript, C++, Bash  
 **Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
-**Frameworks & Libraries:** FastAPI, Gin, Django, Node.js, Express, gRPC, Celery, Airflow, LangChain  
+**Frameworks & Libraries:** FastAPI, Gin, LangChain, Airflow, Django, Node.js, Express, gRPC, Celery  
 **Databases:** PostgreSQL, MySQL, pgvector, Redis, MongoDB  
-**Cloud & Infra:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Snowflake, Nginx, GitHub Actions, Linux, Prometheus, Grafana, OpenTelemetry  
+**Cloud & Infra:** AWS, GCP, Terraform, Docker, Kubernetes, Kafka, Snowflake, Nginx, GitHub Actions, Linux, Prometheus, Grafana  
 **AI:** LLMs, Model Context Protocol (MCP), Agentic Workflows & Custom Skills, Context Management, Claude, Codex
 
 ## Selected Work
@@ -34,4 +34,3 @@ My work centers on pipeline performance optimization, event-driven architecture,
 Email: `justinkong.dev@gmail.com`  
 Portfolio: [justinkong.app](https://www.justinkong.app/)  
 LinkedIn: [linkedin.com/in/justin-hkong](https://www.linkedin.com/in/justin-hkong/)  
-LinkNest: [linknest.info/justin](https://linknest.info/justin)
