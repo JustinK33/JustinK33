@@ -12,7 +12,7 @@ Proficient in Python and Go, using frameworks like FastAPI and Gin, with strong 
 
 My work centers on pipeline performance optimization, event-driven architecture, and building systems that stay reliable under real load.
 
-## Core Stack
+## 🛠️ Core Stack
 
 **Languages:** Python, Golang, SQL, Java, TypeScript, JavaScript, Bash  
 **Concepts**: Distributed Systems, Microservices, Event-Driven Architecture, Message Queues, ETL/ELT, Concurrency, System Design, RAG  
@@ -21,15 +21,27 @@ My work centers on pipeline performance optimization, event-driven architecture,
 **Cloud & Infra:** AWS, GCP, Docker, Kubernetes, Kafka, Nginx, GitHub Actions, Linux, Prometheus, Grafana  
 **AI:** LLMs, Model Context Protocol (MCP), Agentic Workflows & Custom Skills, Context Management, Claude, Codex
 
-## Selected Work
+## 💻 Selected Work
 
-- [**Belady**](https://github.com/JustinK33/Belady) - A distributed cache whose eviction policy is a machine-learned approximation of the provably optimal algorithm.
-- [**Conduit**](https://github.com/JustinK33/Conduit) - Horizontally scalable task queue built in Go.
-- [**RiskScore**](https://github.com/JustinK33/RiskScore) - A leakage-aware credit default risk pipeline with calibration, business-aware thresholds, and a scoring service.
-- [**LinkNest**](https://github.com/JustinK33/LinkNest) - A multi-tenant link-in-bio platform with customizable profiles and analytics.
-- [**Pulsegrid**](https://github.com/JustinK33/Pulsegrid) - Streaming ETL pipeline that turns raw e-commerce events into clean, query-ready tables.
+### ⚡ Belady
+Go • gRPC • Python • LightGBM • Prometheus • Docker
+A distributed cache that uses a machine learning model to decide what to evict, approximating the optimal algorithm instead of falling back on LRU.
+The model runs inside the eviction path with a sub-microsecond budget, which forced me to use flattened tree layouts, sharded locking, and zero-allocation request handling.
+→ [View Project](https://github.com/JustinK33/Belady)
 
-## Connect
+### 📬 Conduit
+Go • Gin • PostgreSQL • Kafka • Redis • Docker
+A durable job queue that keeps running jobs through process crashes, broker restarts, and handler failures, with Postgres as the single source of truth.
+Handles about 600 jobs/s end to end and 4,600+ requests/s at intake on a single laptop, using fencing tokens to limit duplicate execution.
+→ [View Project](https://github.com/JustinK33/Conduit)
+
+### 📊 RiskScore
+Python • XGBoost • scikit-learn • FastAPI • pytest
+A machine learning pipeline that predicts loan default risk on Lending Club data, built specifically to avoid the data leakage that makes most credit models look better than they are.
+The scoring API responds in single-digit milliseconds with a calibrated probability, an approve or decline decision, and SHAP reason codes that explain the result.
+→ [View Project](https://github.com/JustinK33/RiskScore)
+
+## 📫 Connect
 
 Email: `justinkong.dev@gmail.com`  
 Portfolio: [justinkong.app](https://www.justinkong.app/)  
