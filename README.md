@@ -4,7 +4,7 @@ Computer Science & Data Science @ Rutgers University  <br>
 Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data Pipelines<br>
 Software Engineer Intern @ Arka
 
-## About Me
+## 👋 About Me
 
 Backend and Data Engineer with a strong foundation in building high-throughput data pipelines, distributed systems, and scalable backend infrastructure.
 
@@ -16,9 +16,6 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 ### Languages
 `Python` `Go` `SQL` `Java` `TypeScript` `JavaScript` `Bash`
-
-### Concepts
-`Distributed Systems` `Microservices` `Event-Driven Architecture` `Message Queues` `ETL/ELT` `Concurrency` `System Design` `RAG`
 
 ### Frameworks & Libraries
 `FastAPI` `Gin` `LangChain` `Airflow` `Django` `Node.js` `Express` `gRPC` `Celery`
