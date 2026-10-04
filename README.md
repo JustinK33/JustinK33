@@ -1,6 +1,6 @@
 # Hi, I'm Justin
 
-Computer Science & Data Science @ Rutgers University
+Computer Science & Data Science @ Rutgers University <br>
 Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data Pipelines
 
 ## 👋 About Me
