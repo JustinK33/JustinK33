@@ -2,7 +2,6 @@
 
 Computer Science & Data Science @ Rutgers University  <br>
 Pragmatic Backend Engineer focused on Distributed Systems, APIs, and Data Pipelines<br>
-Software Engineer Intern @ Arka
 
 ## 👋 About Me
 
