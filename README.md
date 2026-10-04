@@ -13,21 +13,17 @@ My work centers on pipeline performance optimization, event-driven architecture,
 
 ## 🛠️ Core Stack
 
-**Languages**
+### Languages
+`Python` `Go` `SQL` `Java` `TypeScript` `JavaScript` `Bash`
 
-Python Go SQL Java TypeScript JavaScript Bash
+### Frameworks & Libraries
+`FastAPI` `Gin` `LangChain` `Airflow` `Django` `Node.js` `Express` `gRPC` `Celery`
 
-**Frameworks & Libraries**
+### Databases
+`PostgreSQL` `MySQL` `pgvector` `Redis` `MongoDB`
 
-FastAPI Gin LangChain Airflow Django Node.js Express gRPC Celery
-
-**Databases**
-
-PostgreSQL MySQL pgvector Redis MongoDB
-
-**Cloud & Infra**
-
-AWS GCP Docker Kubernetes Kafka Nginx GitHub Actions Linux Prometheus Grafana
+### Cloud & Infra
+`AWS` `GCP` `Docker` `Kubernetes` `Kafka` `Nginx` `GitHub Actions` `Linux` `Prometheus` `Grafana`
 
 ## 💻 Selected Work
 
@@ -35,9 +31,7 @@ AWS GCP Docker Kubernetes Kafka Nginx GitHub Actions Linux Prometheus Grafana
 
 `Go` • `Gin` • `PostgreSQL` • `Kafka` • `Redis` • `Docker`
 
-A durable job queue built around one rule: Postgres is the only place a job's fate is written. A job is safe the moment its insert commits, so a crashed worker, a restarted broker, or a dropped wake-up costs latency but never work. Workers claim jobs with `FOR UPDATE SKIP LOCKED`, and Kafka and Redis are optional fast paths layered on top of the database.
-
-Exactly-once delivery is not achievable when a worker can die between doing the work and recording it, so Conduit is explicitly at-least-once and uses fencing tokens to shrink the window where a duplicate can run. Benchmarked at about 600 jobs/s end to end (worst p95 1.27 s) and 4,600+ requests/s at intake on a single laptop, with the full methodology and hardware caveats published in the repo.
+A horizontally scalable, durable job queue in Go where Postgres is the single source of truth. A job is safe the moment its insert commits, so crashed workers, broker restarts, and dropped wake-ups cost latency but never work. Kafka and Redis sit on top as optional fast paths.
 
 → [View Project](https://github.com/JustinK33/Conduit)
 
