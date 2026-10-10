@@ -17,13 +17,16 @@ My work centers on pipeline performance optimization, event-driven architecture,
 `Python` `Go` `SQL` `Java` `TypeScript` `JavaScript` `Bash`
 
 ### Frameworks & Libraries
-`FastAPI` `Gin` `LangChain` `Airflow` `Django` `Node.js` `Express` `gRPC` `Celery`
+`FastAPI` `Gin` `LangChain` `Airflow` `Django` `Node.js` `Express` `gRPC`
 
 ### Databases
 `PostgreSQL` `MySQL` `pgvector` `Redis` `MongoDB`
 
 ### Cloud & Infra
-`AWS` `GCP` `Docker` `Kubernetes` `Kafka` `Nginx` `GitHub Actions` `Linux` `Prometheus` `Grafana`
+`AWS` `GCP` `Docker` `Kubernetes` `Terraform` `Kafka` `Nginx` `GitHub Actions` `Prometheus` `Grafana`
+
+### Concepts & Tools
+`Microservices` `Distributed Systems` `REST APIs` `CI/CD` `Observability` `Agile` `Linux` `Git`
 
 ## 💻 Selected Work
 
